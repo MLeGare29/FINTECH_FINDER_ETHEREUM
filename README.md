@@ -59,6 +59,9 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 Running the fintech_finder.py code on the Streamlit web app in the IDE Command Line: `streamlit run fintech_finder.py`
 
 
+## GALLERY
+
+![image](https://github.com/MLeGare29/M19_CHALLENGE/assets/127421460/3b664bfa-bb3f-4123-b53a-b548bce6e8fe)
 
 
 ## CONTRIBUTORS
